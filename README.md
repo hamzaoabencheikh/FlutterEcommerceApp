@@ -11,8 +11,7 @@ The application MIAGED is an ecommerce application, where there is many product 
 ## MVP of the application
 
 ### US#1:[MVP] Interface de login
-- 
-- Mot de passe: 123456[x] Interface de login composée d’un headerBar qui contient le nom de l’application, de deux champs et d’un bout
+- [x] Interface de login composée d’un headerBar qui contient le nom de l’application, de deux champs et d’un bout
 - [x] Les deux champs de saisie sont : Login et Password
 - [x] Le champ de saisie du password est obfusqué
 - [x] Le label du bouton est : Se connecter
