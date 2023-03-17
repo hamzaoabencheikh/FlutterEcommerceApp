@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "828088629237",
+    "project_id": "miaged-bad85",
+    "storage_bucket": "miaged-bad85.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:828088629237:android:09380123959ba87c4292bc",
+        "android_client_info": {
+          "package_name": "com.example.miaged"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "828088629237-o71d04g8v3qt618l5i2c80tb34s5pdsd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaVHnf9KlNS2A6Zm_67suiGYXi1eJgClw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "828088629237-o71d04g8v3qt618l5i2c80tb34s5pdsd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "828088629237-01rfqejna3ta7p406eglof9b2f6g6p9t.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.miaged"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:828088629237:android:a31979f777f7d87f4292bc",
+        "android_client_info": {
+          "package_name": "com.example.shoppingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "828088629237-o71d04g8v3qt618l5i2c80tb34s5pdsd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaVHnf9KlNS2A6Zm_67suiGYXi1eJgClw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "828088629237-o71d04g8v3qt618l5i2c80tb34s5pdsd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "828088629237-01rfqejna3ta7p406eglof9b2f6g6p9t.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.miaged"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
