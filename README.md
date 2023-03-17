@@ -11,6 +11,8 @@ The application MIAGED is an ecommerce application, where there is many product 
 
 ![alt text](https://i.imgur.com/rRcw3XY.png)
 
+![alt text](https://i.imgur.com/tLRWiQW.png)
+
 ![alt text](https://i.imgur.com/wlUYYl3.png)
 
 ![alt text](https://i.imgur.com/KBVunoL.png)
