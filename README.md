@@ -2,6 +2,15 @@
 
 The application MIAGED is an ecommerce application, where there is many product up for sale, the user can add and remove the products to his cart, change his profil informations and save everything to the firebase database.
 
+
+![alt text](https://i.imgur.com/07bjhGF.png)
+
+![alt text](https://i.imgur.com/VI19656.png)
+
+![alt text](https://i.imgur.com/KHsluer.png)
+
+
+
 ## Utilisateur de test
 - login: Max
 - Mot de passe: 123456
